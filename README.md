@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, soy Nelson 👋
+Soy estudiante de 2cfgm de Sistemas Microinformaticos y Redes estoy en segundo año del grado medio 🖥️
 <!--
 **ndelgadoz-lgtm/ndelgadoz-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
